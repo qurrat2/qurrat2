@@ -1,6 +1,18 @@
 ## Qurrat-ul-Ain Rubab
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=180&section=header&text=Qurrat-ul-Ain%20Rubab&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38)
 **Backend Engineer | .Net (C#) | REST APIs**
+<p align="center">
+	<a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+.Net+(C%23)+%7C+REST+APIs;6+years+hands-on+.NET+in+a+10%2B+year+engineering+career;Enterprise+apps+on+.NET+Framework+4.x%2C+WebForms%2C+MVC+5;Modern+portfolio+on+ASP.NET+Core+8+and+Blazor+on+.NET+10" alt="Typing SVG" />
+	</a>
+</p>
+
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=qurrat2&color=512BD4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    <a href="https://linkedin.com/in/qurrat2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:qurrat.rubab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 
 Based in Islamabad, Pakistan. Over 10 years of engineering experience with 6 years of hands-on .NET, spanning Legacy enterprise apps on .NET Framework 4.x (WebForms, MVC 5, IIS, SQL Server) and portfolio work on ASP.NET Core 8 and Blazor Server on .NET 10.
 
