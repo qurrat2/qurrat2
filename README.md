@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.Net+(C%23)+%7C+Python+%7C+React+%7C+Infrastructure;6+years+full-stack+in+a+10%2B+year+engineering+career;Led+teams+of+5-15+through+5%2B+product+launches;Enterprise+apps+on+.NET+Framework+4.x%2C+WebForms%2C+IIS%2C+SQL+Server;Modern+stack+on+.NET+8%2C+.NET+10%2C+React%2C+Python" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.Net+(C%23)+%7C+Python+%7C+React+%7C+Infra;Enterprise+apps+on+.NET+4.x%2C+WebForms%2C+IIS%2C+SQL+Server;Modern+stack+on+.NET+8%2C+.NET+10%2C+React%2C+Python" alt="Typing SVG" />
 	</a>
 </p>
 
