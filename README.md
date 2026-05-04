@@ -1,6 +1,6 @@
 ## Qurrat-ul-Ain Rubab
 ![header](https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=180&section=header&text=Qurrat-ul-Ain%20Rubab&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38)
-**Software Engineer | .Net (C#) | Python | React | Infrastructure**
+
 <p align="center">
 	<a href="https://git.io/typing-svg">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.Net+(C%23)+%7C+Python+%7C+React+%7C+Infrastructure;6+years+full-stack+in+a+10%2B+year+engineering+career;Led+teams+of+5-15+through+5%2B+product+launches;Enterprise+apps+on+.NET+Framework+4.x%2C+WebForms%2C+IIS%2C+SQL+Server;Modern+stack+on+.NET+8%2C+.NET+10%2C+React%2C+Python" alt="Typing SVG" />
@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-Based in Islamabad, Pakistan. Over 10 years of engineering experience with 6 years of full-stack development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform, working across legacy .NET Framework 4.x (WebForms, IIS, SQL Server) and modern stacks on .NET 8, .NET 10, React, and Python.
+Over 10 years of engineering experience with 6 years of full-stack development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform.
 
 ### Currently Learning
-- Integrating AI into .NET Applications
-- Agentic AI
+- Azure administration
+- Azure AI Cloud services and AI-assisted development tools
 
 ### Languages & Frameworks
 
@@ -44,9 +44,6 @@ Based in Islamabad, Pakistan. Over 10 years of engineering experience with 6 yea
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Architecture & Practices
-
-REST APIs · layered architecture · JWT and RBAC · async programming · dependency injection · SOLID · DTO & Repository pattern · request validation · audit logging
 
 ### AI-assisted Development
 
