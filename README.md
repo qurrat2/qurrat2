@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-Over 10 years of engineering experience with 6 years of full-stack development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform. Currently focused on integrating AI agents, agentic workflows and autonomous task automations into existing business systems.
+12+ years of engineering experience, including 6 years in web and desktop application development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform. Currently focused on integrating AI agents, agentic workflows and autonomous task automations into existing business systems.
 
 ### Currently Learning
 - Azure administration
