@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.Net+(C%23)+%7C+Python+%7C+React+%7C+Infra;Enterprise+apps+on+.NET+4.x%2C+WebForms%2C+IIS%2C+SQL+Server;Modern+stack+on+.NET+8%2C+.NET+10%2C+React%2C+Python" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.NET+(C%23)+%7C+Python+%7C+AI+Automation+%7C+Agentic+Workflows;Enterprise+apps+on+.NET+4.x%2C+WebForms%2C+IIS%2C+SQL+Server;Modern+stack+on+.NET+8%2C+.NET+10%2C+Python+(FastAPI)%2C+Node.js;Integrating+AI+agents+into+enterprise+.NET+and+ERP+backends" alt="Typing SVG" />
 	</a>
 </p>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-Over 10 years of engineering experience with 6 years of full-stack development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform.
+Over 10 years of engineering experience with 6 years of full-stack development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform. Currently focused on integrating AI agents, agentic workflows and autonomous task automations into existing business systems.
 
 ### Currently Learning
 - Azure administration
@@ -33,8 +33,7 @@ Over 10 years of engineering experience with 6 years of full-stack development. 
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Data & SQL
@@ -44,12 +43,18 @@ Over 10 years of engineering experience with 6 years of full-stack development. 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### AI Agent Integration
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-6E40C9?style=for-the-badge&logo=rocket&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+OpenClaw agent workflows embedded in enterprise .NET / ERP backends · SKILL.md design · LLM-to-API orchestration · WhatsApp / Slack agent surfaces
 
 ### AI-assisted Development
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-6E40C9?style=for-the-badge&logo=rocket&logoColor=white)
 
 ### DevOps & Deployment
 
@@ -62,6 +67,8 @@ Over 10 years of engineering experience with 6 years of full-stack development. 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
@@ -70,4 +77,3 @@ Over 10 years of engineering experience with 6 years of full-stack development. 
 - Email: qurrat.rubab@gmail.com
 - LinkedIn: [linkedin.com/in/qurrat2](https://linkedin.com/in/qurrat2)
 - Location: Islamabad, Pakistan (UTC+5)
-
