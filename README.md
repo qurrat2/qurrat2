@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.NET+(C%23)+%7C+Python;Integrating+AI+agents+into+Enterprise+and+ERP+systems" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+.NET+(C%23)+%7C+Python;Integrating+AI+Automation+into+Enterprise+and+ERP+systems" alt="Typing SVG" />
 	</a>
 </p>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-0078D7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-12+ years of engineering experience, including 6 years in web and desktop application development. Built enterprise applications for high-security environments used by 1000+ users. Led teams of 5-15 through 5+ product launches on a multitenant ERP platform. Currently focused on integrating AI agents, agentic workflows and autonomous task automations into existing business systems.
+12+ years of engineering experience, including 6 years in web and desktop application development. Built enterprise applications for high-security environments used by more than 1000 users. Led teams of 5–15 members through 5+ product launches for a multi-tenant ERP platform. Currently focused on integrating AI-assisted automations and LLM-powered workflows into enterprise business systems.
 
 ### Currently Learning
 - Azure administration
